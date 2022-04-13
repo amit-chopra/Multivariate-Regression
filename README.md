@@ -1,6 +1,5 @@
 # Project Name
-> Boom Bike Demand Prediction with Multivariate Regression
-
+> **Boom Bike Demand Prediction with Multivariate Regression**
 
 
 ## Table of Contents
@@ -16,13 +15,11 @@
 •	Better weather conditions, clear weather days have the highest demand for Boom Bikes
 
 
-
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- What is the business problem that your project is trying to solve? Determine the key drivers to predict Boom Bikes demand
+- What is the business problem that your project is trying to solve? 
+**Determine the key drivers to predict Boom Bikes demand**
 - What is the dataset that is being used?
-Use of this dataset in publications must be cited to the following publication:
+Boom Bikes dataset. Use of this dataset in publications must be cited to the following publication:
 
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
 
