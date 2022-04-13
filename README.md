@@ -39,10 +39,4 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
-Contact
-=========================================
-	
-For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
-
 
